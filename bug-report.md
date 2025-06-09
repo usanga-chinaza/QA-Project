@@ -24,7 +24,7 @@ Search results and suggestions are relevant and consistent.
 High
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/VEwyH6AIcTLuDYe3FSQYT7DjurHBCi
 
 ---
 
@@ -50,7 +50,7 @@ Related search terms have consistent text casing and contain no code or URLs.
 High
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/HgjiOntwclKw9J9C2i705devGcb4ET
 
 ---
 
@@ -76,7 +76,7 @@ Advertisements are clearly visible and each image links to a single, correct URL
 Medium
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/HnBt5jIGPIbvoDhIZFsArQvmrbXFDp
 
 ---
 
@@ -98,7 +98,7 @@ The text "Home Page" is shown on the homepage, potentially confusing users.
 Low
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/S0u0Hd42w4xUWHk8czlC3rAoJqKiHC
 
 ---
 
@@ -122,7 +122,7 @@ Both the yoga image and the linked text navigate to the Yoga collection page.
 Medium
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/R0UFE9xCWnAd5wQRtqzlmnNgQ97qSl
 
 ---
 
@@ -148,7 +148,7 @@ All footer links should open consistently, preferably in the same tab.
 Low
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/0zz5LU9V2HjRAfXkWoPicts4oYX9cf
 
 ---
 
@@ -178,7 +178,7 @@ Invisible icon before "Sign In" and incorrect tab order.
 Medium
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/0jiSFyXiEBLm2ewHyvmHhraMZzoD78
 
 ---
 
@@ -206,7 +206,7 @@ Search suggestions include database scripts; searching specific terms returns un
 High
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/gMy6q9yU2lZ3pGtWLk8dnuoOHDGY17
 
 ---
 
@@ -234,7 +234,7 @@ Selected size does not match displayed size; selecting color shows inconsistent 
 Medium
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/NOIN8xKpErBGTzG17n845caza1xdtA
 
 ---
 
@@ -261,7 +261,7 @@ Images should update to show only the selected color.
 Medium
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/HR5aGwGSZb9WCX1sycCLFhQNVtEF4O
 
 ---
 
@@ -286,7 +286,7 @@ Checkboxes appear on related products inconsistently, unlike other categories.
 Low
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/bsmrqjrK8X3preCoz0UmXQjnTRiHCn
 
 ---
 
@@ -314,7 +314,7 @@ Mini-cart images show wrong item colors; update cart button visible unnecessaril
 Medium
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/UeQJx0nZPXipKGVlVhNSGeCHr8l5eC
 
 ---
 
@@ -342,7 +342,7 @@ Phone number field accepts alphabets and special characters; unexpected discount
 High
 
 ### Screenshot:  
-(Attach here or insert image link)
+https://monosnap.com/file/giSyUZAfsvKOT1g2b8NU6c2TuaZ8cW
 
 ---
 
