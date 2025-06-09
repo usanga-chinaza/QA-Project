@@ -54,7 +54,7 @@ test('Remove Item from Cart', async ({ page }) => {
   await cart.verifyCartIsEmpty();
 });
 
-test.only('Attempt to add to cart with missing required fields', async ({ page }) => {
+test('Attempt to add to cart with missing required fields', async ({ page }) => {
   const home = new HomePage(page);
   const results = new SearchResultsPage(page);
   const product = new ProductPage(page);
