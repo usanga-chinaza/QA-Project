@@ -9,7 +9,7 @@ test('Add Item to Cart', async ({ page }) => {
   const home = new HomePage(page);
   const results = new SearchResultsPage(page);
   const product = new ProductPage(page);
-  const cart = new CartPage(page);
+  // const cart = new CartPage(page);
 
   const productName = 'Marco Lightweight Active';
   const size = 'M';
