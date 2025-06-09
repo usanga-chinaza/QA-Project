@@ -1,4 +1,4 @@
-# 🧪 Magento Storefront QA Assessment
+# 🧪 Magento Storefront QA Assessment ![CI](https://github.com/usanga-chinaza/buckhill-qa-assessment-testing/actions/workflows/playwright.yml/badge.svg)
 
 This repository contains the deliverables for the QA assessment of the [Magento Demo Storefront](https://magento.softwaretestingboard.com/). The assessment covers:
 
@@ -15,7 +15,7 @@ This repository contains the deliverables for the QA assessment of the [Magento 
 
 - Functionality tested includes homepage search, product listing, cart behavior, footer links, tab navigation, and checkout flow.
 - Focused on real user flows and exploratory edge cases.
-- Discovered 13 bugs across the homepage, product details, search, cart, and checkout features.
+- Discovered bugs across the homepage, product details, search, cart, and checkout features.
 
 ---
 
@@ -63,12 +63,24 @@ Automation was done using **Playwright + JavaScript**, using the **Page Object M
 - Adding item to cart
 - Asserting cart updates
 
-### ▶️ Run Tests Locally
+---
+
+## ⚙️ GitHub Actions CI
+
+Continuous Integration is set up using **GitHub Actions**. Tests run automatically on every `push` and `pull_request` to the `main` branch.
+
+📄 [View Workflow File](.github/workflows/playwright.yml)
+
+🟢 **Status:** ![CI](https://github.com/usanga-chinaza/buckhill-qa-assessment-testing/actions/workflows/playwright.yml/badge.svg)
+
+---
+
+## ▶️ Run Tests Locally
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/magento-qa-assessment.git
-cd magento-qa-assessment
+git clone https://github.com/usanga-chinaza/buckhill-qa-assessment-testing.git
+cd buckhill-qa-assessment-testing
 
 # 2. Install dependencies
 npm install
