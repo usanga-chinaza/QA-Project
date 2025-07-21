@@ -1,6 +1,6 @@
 # 🧪 Magento Storefront QA Project ![CI](https://github.com/usanga-chinaza/buckhill-qa-assessment-testing/actions/workflows/playwright.yml/badge.svg)
 
-This repository contains the deliverables for a QA Project of the [Magento Demo Storefront](https://magento.softwaretestingboard.com/). The assessment covers:
+This repository contains the deliverables for a QA Project of the [Magento Demo Storefront](https://magento.softwaretestingboard.com/). The project covers:
 
 - Manual exploratory testing
 - Bug reporting
