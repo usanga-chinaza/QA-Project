@@ -42,7 +42,7 @@ A lean test strategy tailored for **exploratory testing** is included. It outlin
 - Types of testing
 - Risk areas and priorities
 
-📄 [Test Strategy (PDF)](docs/Buckhill%20Assessment%20Test%20Strategy.pdf)
+📄 [Test Strategy (PDF)](https://github.com/usanga-chinaza/QA-Project/blob/main/doc/Test_Strategy_Magento_Project.pdf)
 
 ---
 
@@ -50,7 +50,7 @@ A lean test strategy tailored for **exploratory testing** is included. It outlin
 
 Rather than detailed, scripted test cases, high-level test charts suitable for exploratory testing were used. Each scenario targets a core area of the Magento site with specific user intents.
 
-📄 [Manual Exploratory Test Scenarios (PDF)](docs/Buckhill%20Manual%20Exploratory%20Test%20Scenarios%20Document.pdf)
+📄 [Manual Exploratory Test Scenarios (PDF)](https://github.com/usanga-chinaza/QA-Project/blob/main/doc/Manual%20Exploratory%20Test%20Scenarios%20Document.pdf)
 
 ---
 
