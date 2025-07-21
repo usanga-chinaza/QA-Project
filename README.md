@@ -79,8 +79,8 @@ Continuous Integration is set up using **GitHub Actions**. Tests run automatical
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/usanga-chinaza/buckhill-qa-assessment-testing.git
-cd buckhill-qa-assessment-testing
+git clone https://github.com/usanga-chinaza/QA-Project.git
+cd qa-project
 
 # 2. Install dependencies
 npm install
