@@ -42,7 +42,7 @@ A lean test strategy tailored for **exploratory testing** is included. It outlin
 - Types of testing
 - Risk areas and priorities
 
-📄 [Buckhill Assessment Test Strategy (PDF)](docs/Buckhill%20Assessment%20Test%20Strategy.pdf)
+📄 [Test Strategy (PDF)](docs/Buckhill%20Assessment%20Test%20Strategy.pdf)
 
 ---
 
